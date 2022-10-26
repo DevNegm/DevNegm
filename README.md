@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ahmad Negm</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🔭 I’m currently working on **ECU website**
+- 🔭 I’m currently working on **Ecommerce website**
 
-- 🌱 I’m currently learning **redux, Cypress, Story Tell, redux toolkit, MERN stack**
+- 🌱 I’m currently learning **Cypress, StoryTell, RTK**
 
 - 👨‍💻 All of my projects are available at [https://ahmad-negm.vercel.app/](https://ahmad-negm.vercel.app/)
 
 - 📝 I regularly write articles on [https://ahmad-negm.vercel.app/blog](https://ahmad-negm.vercel.app/blog)
 
-- 💬 Ask me about **JS, React JS, Next JS**
+- 💬 Ask me about **JS, React JS, Next JS, RTK**
 
 - 📫 How to reach me **ahmdn4418@gmail.com**
 
