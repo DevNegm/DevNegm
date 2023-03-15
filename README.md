@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Negm</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🔭 I’m currently working on **Ecommerce website**
+- 🔭 I’m currently working on **React native apps**
 
 - 🌱 I’m currently learning **Cypress, StoryTell, RTK**
 
