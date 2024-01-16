@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HfhZ6t468PiykxqIIytnKh5rjPpgEx0a/view](https://drive.google.com/file/d/1HfhZ6t468PiykxqIIytnKh5rjPpgEx0a/view)
 
-- ⚡ Fun fact **I was hate programming at first but now I can't live without it**
+- ⚡Quote “The expert at anything was once a beginner.”
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
