@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmad Negm</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on **React native apps**
+- 🔭 I’m currently working on **El-Monqez App**
 
-- 🌱 I’m currently learning **Cypress, StoryTell, RTK**
+- 🌱 I’m currently learning **Next Js, React native**
 
 - 👨‍💻 All of my projects are available at [https://ahmad-negm.vercel.app/](https://ahmad-negm.vercel.app/)
 
