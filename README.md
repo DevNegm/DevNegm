@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **Next Js, React native**
 
-- 👨‍💻 All of my projects are available at [https://ahmad-negm.vercel.app/](https://ahmad-negm.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.justnegm.com/](https://www.justnegm.com/)
 
-- 📝 I regularly write articles on [https://ahmad-negm.vercel.app/blog](https://ahmad-negm.vercel.app/blog)
+- 📝 I regularly write articles on [https://www.justnegm.com/blog](https://www.justnegm.com/blog)
 
 - 💬 Ask me about **JS, React JS, Next JS, RTK**
 
 - 📫 How to reach me **ahmdn4418@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HfhZ6t468PiykxqIIytnKh5rjPpgEx0a/view](https://drive.google.com/file/d/1HfhZ6t468PiykxqIIytnKh5rjPpgEx0a/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1TwB6QEU7Dk4P_JRlcE-Gi05XHk1jSrxN/view](https://drive.google.com/file/d/1TwB6QEU7Dk4P_JRlcE-Gi05XHk1jSrxN/view)
 
 - ⚡Quote “The expert at anything was once a beginner.”
 
